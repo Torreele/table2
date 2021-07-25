@@ -1,5 +1,5 @@
 # Table 2
-## Developper tools - dotnet CLI & git CLI
+## Developper tools - dotnet CLI | github CLI | git CLI
 
 ### ⏱ 15' 
 

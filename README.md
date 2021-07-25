@@ -30,13 +30,16 @@ Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
 - Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
 - Créez un repository GitHub
 - Initialisez votre projet en tant que repo git
-- Publiez votre commit
+- Stagez l'entierté de vos modifications
+- Créez un commit avec le message "Création de mon projet à l'aide des CLIs"
+- Publiez
 
-**Bonus** 
+**Bonus**
 - Créez un fichier README.md
 - Le première ligne du fichier contient le titre de votre projet avec un style "titre 1"
-
-
+- Stagez votre ajout de vos modifications
+- Créez un commit avec le message "Ajout du README.md"
+- Publiez
 
 [Discussion ouverte]
 Qu'avez-vous pensé de cette expérience?

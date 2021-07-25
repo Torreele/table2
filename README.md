@@ -19,6 +19,7 @@ Connaissez-vous le CLI dotnet, le CLI github, et le CLI git ?
 🔑 ```git --help```
 
 ⭐⭐⭐ Les différents outils CLIs sont déjà installés sur la machine (dotnet --help, gh --help, git --help)
+
 ⭐⭐⭐ Un compte github est déjà mappé localement, votre publication se fera donc automatiquement. 
 
 ---

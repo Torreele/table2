@@ -6,7 +6,7 @@
 ### 🃏 NO INTERNET
 
 ### Instructions
-🔨 Votre challenge est de créer un nouveau projet à l'aide de la commande dotnet et de le publier sur git, toujours à l'aide du CLI (Command Line Interface).
+🔨 Votre challenge est de créer un nouveau projet à l'aide à l'aide des différentes CLI (Command Line Interface), d'initialiser votre projet en tant que repo git et de le publier sur github.
 
 Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement, oui ? (consultez vos collaborateurs) 
 Pour vous aidez à démarrer, je vous donne 3 clés !

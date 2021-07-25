@@ -8,7 +8,7 @@
 ### Votre mission
 🔨 Votre challenge (je vous passe le "toute fois si vous l'acceptez", ou pas) est de créer un nouveau projet "nom-de-l-equipe", **dotnet 5** de type **command**, avec le language **C#** à l'aide des différentes CLIs (Command Line Interfaces).
 
-Vou devrez initialiser votre projet local en tant que repo git et le publier sur github (🧘 attention jeune apprenti, cet ordre n'est pas nécessairement le plus logique et le plus simple).
+Vous devrez initialiser votre projet local en tant que repo git et le publier sur github (🧘 attention jeune apprenti, cet ordre n'est pas nécessairement le plus logique et le plus simple).
 
 Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement, oui ? **(consultez vos collaborateurs)**
 Pour vous aidez à démarrer, je vous donne 3 clés !

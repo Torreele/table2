@@ -24,7 +24,7 @@ Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
 ---
 
 
-# 💻 Let's code !
+### 💻 Let's code !
 ### Instructions détaillées:
 - Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
 - Créez un repository GitHub

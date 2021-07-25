@@ -10,7 +10,9 @@
 
 Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement, oui ? **(consultez vos collaborateurs)**
 
-Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherche internet non autorisée)
+Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
+
+Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherches internet non autorisée)
 
 "Problems solver", à vous de jouer :
 
@@ -28,8 +30,8 @@ Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherche internet non a
 , **dotnet 5** de type **command**, avec le language **C#**
 
 ### Instructions détaillées:
-- Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe. Git
-- Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
+- Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
+
 - Si vous connaissez le CLI git, créez un nouveau projet avec le nom de votre équipe sur le path suivant :
 - C:\Sources_GIT\Perso\Perso_PTC\Workshops\WorkShop_202107
 - Commitez avec un commentaire contenant le nom de votre équipe

@@ -8,12 +8,10 @@
 ### Votre mission
 🔨 Votre challenge (je vous passe le "toute fois si vous l'acceptez", ou pas) est de créer/versionner/héberger un nouveau projet .NET à l'aide des différentes CLIs (Command Line Interfaces).
 
-Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement, oui ? **(consultez vos collaborateurs)**
+Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement, oui (consultez vos collaborateurs)?.
 Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
 
 #### Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherches internet non autorisée)
-
-"Problems solver", à vous de jouer :
 
 🔑 ```dotnet --help```
 

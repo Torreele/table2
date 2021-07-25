@@ -12,7 +12,7 @@ Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement
 
 Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
 
-Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherches internet non autorisée)
+#### Pour vous aidez à démarrer, voici 3 clés ! (rappel : recherches internet non autorisée)
 
 "Problems solver", à vous de jouer :
 

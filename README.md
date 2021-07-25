@@ -23,14 +23,18 @@ Quelles est la proportion d'utilisateurs du CLI git versus un GUI git?
 
 ---
 
-### Instructions détaillées:
-- Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
-- Commitez avec un commentaire contenant le nom de votre équipe
--  Publiez votre commit
-- Créez un fichier README.MD en local
-- Le première ligne du fichier contient le titre avec un style "titre 2"
 
 # 💻 Let's code !
+### Instructions détaillées:
+- Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
+- Créez un repository GitHub
+- Initialisez votre projet en tant que repo git
+- Publiez votre commit
+
+**Bonus** 
+- Créez un fichier README.md
+- Le première ligne du fichier contient le titre de votre projet avec un style "titre 1"
+
 
 
 [Discussion ouverte]

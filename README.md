@@ -27,18 +27,18 @@ Connaissez-vous le CLI dotnet, le CLI github, et le CLI git ?
 
 ### 💻 Let's code !
 ### Instructions détaillées:
-- Créez un projet .NET de type "console", avec pour language "C#", qui porte le nom de votre équipe.
-- Créez un repository GitHub
+- Créez un repository GitHub qui porte le nom de votre équipe (sans créer de folder en local)
+- Créez un projet .NET de type "console", avec le language "C#", qui porte le nom de votre équipe.
 - Initialisez votre projet en tant que repo git
-- Stagez l'entierté de vos modifications
+- Stagez vos changements en cours
 - Créez un commit avec le message "Création de mon projet à l'aide des CLIs"
 - Publiez
 
 **Bonus**
-- Créez un fichier README.md
+- Créez un fichier README.md à l'aide de la commande ```"echo "" > README.md```
 - Le première ligne du fichier contient le titre de votre projet avec un style "titre 1"
 - Stagez votre ajout de vos modifications
-- Créez un commit avec le message "Ajout du README.md"
+- Créez un commit avec le message "Ajout README.md"
 - Publiez
 
 ---

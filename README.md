@@ -12,9 +12,9 @@ Connaissez vous le CLI dotnet, le CLI github, et le CLI git ? Non, partiellement
 Pour vous aidez à démarrer, je vous donne 3 clés !
 "Problems solver", à vous de jouer :
 
-🔑 dotnet --help
-🔑 gh --help
-🔑 git --help
+🔑 ```dotnet --help```
+🔑 ```gh --help```
+🔑 ```git --help```
 
 
 

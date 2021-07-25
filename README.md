@@ -6,7 +6,7 @@
 ### 🃏 NO INTERNET SEARCH
 
 ### Votre mission
-🔨 Votre challenge (je vous passe le "toute fois si vous l'acceptez", ou pas) est de créer/versionner/héberger le code source d'un nouveau projet .NET à l'aide des différentes CLIs (Command Line Interfaces).
+🔨 Votre mission (je vous passe le "toute fois si vous l'acceptez", ou pas) est de créer/versionner/héberger le code source d'un nouveau projet .NET à l'aide des différentes CLIs (Command Line Interfaces).
 
 Connaissez-vous le CLI dotnet, le CLI github, et le CLI git ?
 

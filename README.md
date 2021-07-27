@@ -35,7 +35,7 @@ Connaissez-vous le CLI dotnet, le CLI github, et le CLI git ?
 - Initialisez votre mapping de repo en publiant avec la commande suivante ```git remote add origin https://github.com/Torreele/{nom-de-votre-repo}.git``` 
 
 **Bonus**
-- Créez un fichier README.md à l'aide de la commande ```"echo "" > README.md```
+- Créez un fichier README.md à l'aide de la commande ```echo "" > README.md```
 - Le première ligne du fichier contient le titre de votre projet avec un style "titre 1"
 - Stagez votre ajout de vos modifications
 - Créez un commit avec le message "Ajout README.md"
